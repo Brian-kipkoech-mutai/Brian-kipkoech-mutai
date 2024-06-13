@@ -2,7 +2,7 @@
 
  passionate about coding and problem-solving.
  
- front-end software engineering (**React**, **Taiwind css**, **Context API** **React Router v6** **JavaScript**, **React**, and **D3.js** for data visualization).
+ front-end software engineering (**React**, **Taiwind CSS**, **Context API** **React Router v6** **JavaScript**, **React**, and **D3.js** for data visualization).
 
 🌱 I’m currently learning about backend development, including Linux scripting, PostgreSQL, Node.js, and MongoDB anf firebase.
 
