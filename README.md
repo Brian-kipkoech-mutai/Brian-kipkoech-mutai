@@ -1,6 +1,6 @@
   Hi, I’m @Brian,
-
-I'm a software engineer adept in **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, **MongoDB**, **Node.js**, **Context API**, **React Router v6**, **Redux**, and **D3.js** for data visualization.
+ a software engineer proficient in **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, **MongoDB**, **Node.js**, 
+  **Context API**, **React Router v6**, **Redux**, and **D3.js** for data visualization.
 
 I am currently learning Linux scripting, PostgreSQL, and Firebase.
 
