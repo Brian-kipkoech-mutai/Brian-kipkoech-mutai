@@ -1,11 +1,20 @@
- 👋 Hi, I’m @Brian
+  Hi, I’m @Brian,
+
+I'm a software engineer adept in **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, **MongoDB**, **Node.js**, **Context API**, **React Router v6**, **Redux**, and **D3.js** for data visualization.
+
+I am currently learning Linux scripting, PostgreSQL, and Firebase.
+
+📫 You can reach me through my LinkedIn profile:  https://www.linkedin.com/in/brian-kipkoech-71b5b9248.
+
+As a software engineer with growing proficiency, I'm excited to share the following projects that demonstrate my progress and dedication:
+
  
-  software engineering adept  in **React**, **Taiwind CSS**, **JavaScript**, **Express.js**,**Mongo DB**, **Node.js**  **Context API**, **React Router v6**, **Redux**, and **D3.js** for data visualization.
 
- currently learning Linux scripting, PostgreSQL, firebase.
 
-📫 You can reach me through my LinkedIn profile: [Brian kipkoech](www.linkedin.com/in/brian-kipkoech-71b5b9248)
 
- As a software engineer with a growing proficiency  I'm excited to share the following projects that demonstrate my progress and dedication:
 
- 
+
+
+
+
+
