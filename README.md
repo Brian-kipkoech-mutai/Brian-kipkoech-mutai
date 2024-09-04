@@ -1,4 +1,4 @@
-  software engineer proficient in **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, **MongoDB**, **Node.js**.
+ A full-stack  software engineer proficient in **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, **MongoDB**, **Node.js**.
 
 
 ### Frontend Libraries:
