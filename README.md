@@ -1,6 +1,8 @@
-  # Full-Stack Software Engineer
+  # Brian Kipkoech Mutai - Full-Stack Software Engineer
 
-Proficient in:
+I am a **full-stack software engineer** with a strong foundation in both **frontend** and **backend** development. Below are the technologies and tools I use in my day-to-day development.
+
+## Proficient in:
 
 ### Frontend:
 <div style="display: flex; gap: 10px;">
@@ -13,6 +15,14 @@ Proficient in:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
+**Frontend Libraries:**
+- **React Router v6**: For dynamic routing in React applications.
+- **Redux**: For state management.
+- **Framer Motion**: For smooth animations.
+- **React Query**: For data fetching and synchronization.
+- **D3.js**: For creating interactive data visualizations.
+- **ShadCNUI** :**UI component library** for React that provides customizable, accessible, and reusable components  
+
 ### Backend:
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js">
@@ -23,6 +33,11 @@ Proficient in:
   <img src="https://img.shields.io/badge/Google%20OAuth2-4285F4?style=plastic&logo=google&logoColor=white" alt="Google OAuth2">
   <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=plastic&logo=json-web-tokens&logoColor=white" alt="JWT">
 </div>
+
+**Backend Libraries:**
+- **Mongoose**: For MongoDB object modeling.
+- **Google OAuth2**: For secure authentication.
+- **jsonwebtoken (JWT)**: For creating and verifying tokens.
 
 ### Libraries:
 <div style="display: flex; gap: 10px;">
@@ -48,12 +63,15 @@ Proficient in:
 
 ---
 
-### Currently mastering:
+## Currently mastering:
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Redis-D92D2C?style=plastic&logo=redis&logoColor=white" alt="Redis">
 </div>
 
-📫 **Contact Me:** Feel free to reach out through my [LinkedIn profile](https://www.linkedin.com/in/brian-kipkoech-71b5b9248).
-I’m always eager to collaborate on innovative projects and contribute to open-source initiatives.
-Looking forward to connecting and exploring exciting opportunities!
+---
+
+### Contact Me:
+
+Feel free to reach out through my [LinkedIn profile](https://www.linkedin.com/in/brian-kipkoech-71b5b9248).  
+I’m always eager to collaborate on innovative projects and contribute to open-source initiatives. Looking forward to connecting and exploring exciting opportunities!
