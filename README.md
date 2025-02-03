@@ -32,6 +32,7 @@ I am a **full-stack software engineer** with a strong foundation in both **front
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Google%20OAuth2-4285F4?style=plastic&logo=google&logoColor=white" alt="Google OAuth2">
   <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=plastic&logo=json-web-tokens&logoColor=white" alt="JWT">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" alt="NestJS">
 </div>
 
 **Backend Libraries:**
@@ -65,7 +66,6 @@ I am a **full-stack software engineer** with a strong foundation in both **front
 
 ## Currently mastering:
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Redis-D92D2C?style=plastic&logo=redis&logoColor=white" alt="Redis">
 </div>
 
